@@ -3,5 +3,8 @@
 
 Para executar nosso código utilize o seguinte comando
 ```
-node app.js
+se(var == 1){
+  teste = 1
+}
++node app.js
 ```

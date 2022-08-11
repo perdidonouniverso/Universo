@@ -3,6 +3,16 @@ programa
 	
 	funcao inicio()
 	{
+		cadeia nome 
+		
+		escreva ("Digite seu nome porfavor:\n")
+		leia (nome)
+		escreva ("\n")
+		
+		escreva ("Obrigado ^_~ \n")
+		escreva("\n")
+		limpa()
+		
 		escreva("Qual seu CPF?\n")
 		inteiro cpf 
 		leia(cpf)
